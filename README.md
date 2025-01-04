@@ -2,7 +2,8 @@ Hi there! 👋 I'm Emily Nguyen, a dedicated Data Science and Mathematics enthus
 - 🧠 Machine Learning Algorithms & Predictive Modeling
 - 📊 Data Cleaning, Preprocessing, & Statistical Analysis
 - 🛠️ Big Data Platforms: Hadoop, Spark, and Hive
-- 🐍 Advanced Python Programming 
+- 🐍 Advanced Python Programming
+
 🚀 My projects focus on solving real-world challenges through innovative data-driven solutions. I enjoy collaborating on impactful projects and learning new tools and techniques along the way.
 💡 Current Focus: Portfolio Optimization, Backtesting Strategies, and Data-Driven Applications for Experiential Education.
 
