@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @emilyvngu
-- 👀 I’m interested in life sciences, pharmacology, dermatology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on research projects with a focus on data visualization
-- 📫 How to reach me: enguyen3838@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love pottery!
+Hi there! 👋 I'm Emily Nguyen, a dedicated Data Science and Mathematics enthusiast, passionate about leveraging data to drive impactful solutions. My growing expertise includes:
+- 🧠 Machine Learning Algorithms & Predictive Modeling
+- 📊 Data Cleaning, Preprocessing, & Statistical Analysis
+- 🛠️ Big Data Platforms: Hadoop, Spark, and Hive
+- 🐍 Advanced Python Programming 
+🚀 My projects focus on solving real-world challenges through innovative data-driven solutions. I enjoy collaborating on impactful projects and learning new tools and techniques along the way.
+💡 Current Focus: Portfolio Optimization, Backtesting Strategies, and Data-Driven Applications for Experiential Education.
+
+📫 Let's connect: [www.linkedin.com/in/emily-nguyen-a9520227b]
 
 <!---
 emilyvngu/emilyvngu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
